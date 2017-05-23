@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://zhangmangyuan.github.io
+title: 芒果的 Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
 simple_search: https://www.google.com/search
